@@ -18,4 +18,4 @@ When making changes, be sure to have the following fonts installed. For instruct
 * HelveticaLTStd (BoldCond, Cond, CondObl, Light, LightObl, Roman)
 * MinionPro (Regular)
 
-!(The menu at a Privacy Café)[https://farm3.staticflickr.com/2937/14050939888_8324d10b2a_k_d.jpg]
+![The menu at a Privacy Café](https://farm3.staticflickr.com/2937/14050939888_8324d10b2a_k_d.jpg)
